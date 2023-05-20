@@ -1,0 +1,33 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Nihan Arts!'
+theme = 'beautifulhugo'
+
+
+[Params]
+  homeTitle = "Nihan's Art Site !" 
+  subtitle = "Welcome to my Art Site 👋!"
+  logo = "img/profile.jpg"
+  favicon = "img/favicon.ico"
+
+
+[Author]
+    name = 'Nihan'
+
+
+
+[[menu.main]]
+    name = "🏡 home"
+    url = ""
+    weight = 1
+
+[[menu.main]]
+    name = "😎 About"
+    url = "page/aboutme"
+    weight = 3
+
+
+[[menu.main]]
+    name = "😋 My Arts!"
+    url = "page/arts"
+    weight = 3
