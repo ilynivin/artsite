@@ -1,11 +1,11 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'Nihan Arts!'
+title = 'Nihaan Arts!'
 theme = 'beautifulhugo'
 
 
 [Params]
-  homeTitle = "Nihan's Art Site !" 
+  homeTitle = "Nihaan's Art Site !" 
   subtitle = "Welcome to my Art Site 👋!"
   logo = "img/profile.jpg"
   favicon = "img/favicon.ico"
