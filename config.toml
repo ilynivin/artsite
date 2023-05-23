@@ -1,14 +1,18 @@
-baseURL = 'https://nihanarts.netlify.app/'
+baseURL = 'https://kenuarts.netlify.app/'
 languageCode = 'en-us'
 title = 'Nihaan Arts!'
 theme = 'beautifulhugo'
+pygmentsStyle = "trac"
 
 
 [Params]
   homeTitle = "Nihaan's Art Site !" 
   subtitle = "Welcome to my Art Site 👋!"
-  logo = "img/profile.jpg"
+  logo = "img/logo.jpg"
   favicon = "img/favicon.ico"
+  dateFormat = "April 20 2023"
+  wordCount = true
+  readingTime = true
 
 
 [Author]
