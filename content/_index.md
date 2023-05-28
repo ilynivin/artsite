@@ -1,5 +1,5 @@
 ### NOTE!
-- Please note that my website is under site maintenance . 
+- Please note that my website is under maintenance . 
 - Please follow my Brother [Nivins](https://nivins.in/).
 
 ### Netlify Status
